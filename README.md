@@ -6,7 +6,7 @@
 
 ## Introduction
 
-I build and operate cloud-native platforms that engineering teams actually want to use. My work sits at the intersection of platform engineering, infrastructure automation, security, and developer experience — primarily in Azure and Kubernetes environments.
+I build and operate cloud-native platforms that engineering teams actually want to use. My work sits at the intersection of platform engineering, infrastructure automation, security, and developer experience primarily in Azure and Kubernetes environments.
 
 Most of my time is spent designing Kubernetes platforms, hardening infrastructure with policy-as-code and secrets management, building GitOps pipelines, and creating the internal tooling that makes self-service possible at scale.
 
@@ -16,7 +16,7 @@ Most of my time is spent designing Kubernetes platforms, hardening infrastructur
 
 The majority of my professional work has been delivered inside enterprise, government, and consulting environments where client code and employer intellectual property cannot be published.
 
-The repositories in this profile are **clean-room implementations** — built from scratch to demonstrate the technologies, architectural patterns, automation approaches, and engineering practices I apply in professional environments, without exposing client code or confidential information.
+The repositories in this profile are **clean-room implementations**  built from scratch to demonstrate the technologies, architectural patterns, automation approaches, and engineering practices I apply in professional environments, without exposing client code or confidential information.
 
 > *These repositories demonstrate technologies, architectural patterns, automation approaches, and engineering practices used in professional environments without exposing client code or confidential information.*
 
