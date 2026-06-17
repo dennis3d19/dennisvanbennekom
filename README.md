@@ -74,16 +74,10 @@ The repositories in this profile are **clean-room implementations**  built from 
 
 | Project | Description | Demonstrates |
 |---|---|---|
-| [Kubernetes Platform Blueprint](https://github.com/dennis3d19/kubernetes-platform-blueprint) | Opinionated Kubernetes platform baseline with ArgoCD, Vault integration, RBAC, and policy-as-code | Multi-tenant platform design, GitOps structure, admission control, secrets injection |
 | [Platform Engineering Standards](https://github.com/dennis3d19/platform-engineering-standards) | Engineering standards, ADRs, and runbooks for platform teams | Documentation-as-code, decision records, onboarding patterns |
 | [Terraform Vault Transit Engine](https://github.com/dennis3d19/terraform-vault-transit) | Terraform module for provisioning and managing Vault Transit secrets engines | Encryption-as-a-service, key lifecycle management, IaC for Vault |
-| [Terraform Vault Kubernetes Auth](https://github.com/dennis3d19/terraform-vault-kubernetes-auth) | Terraform module for configuring Vault Kubernetes authentication backends | Workload identity, service account binding, least-privilege access |
-| [Vault Policy Generator](https://github.com/dennis3d19/vault-policy-generator) | CLI tool that generates Vault HCL policies from structured YAML definitions | Policy-as-code, automation tooling, Vault governance |
 | [Argo K6 Automation](https://github.com/dennis3d19/argo-k6-automation) | Load testing pipelines using k6 integrated into Argo Workflows | Performance testing automation, workflow orchestration |
-| [Grafana As Code Platform](https://github.com/dennis3d19/grafana-as-code-platform) | Grafana dashboards, alerts, and data sources managed entirely through Terraform and Jsonnet | Observability-as-code, drift prevention, reproducible monitoring |
 | [Internal AI Knowledge Bot](https://github.com/dennis3d19/ai-knowledge-bot) | RAG-based assistant for internal platform documentation using Azure OpenAI | LLM integration, retrieval-augmented generation, platform self-service |
-| [Terraform Module Library](https://github.com/dennis3d19/terraform-module-library) | Reusable, versioned Terraform modules for Azure and Kubernetes resources | Module design patterns, semantic versioning, internal developer platform |
-
 ---
 
 ## Certifications
