@@ -144,7 +144,7 @@ The repositories in this profile are **clean-room implementations**  built from 
 | | |
 |---|---|
 | LinkedIn | [linkedin.com/in/dennisvanbennekom](https://linkedin.com/in/dennisvanbennekom) |
-| Email | available on request |
+| Email | contact@dvb-engineering.com |
 | GitHub | [@dennis3d19](https://github.com/dennis3d19) |
 | Website | https://dvb-engineering.com |
 
